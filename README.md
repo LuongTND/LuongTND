@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luongtnd" alt="luongtnd" /></a> </p>
 
-- 💯 I’m currently learning **Asp.net Core, Nodejs, React, Angular, Vuejs**
+- 💯 I’m currently learning **C#, Asp.net Core, Java, Nodejs, React, Angular, Vuejs**
 
 - 🤝 I’m looking to collaborate on [GitHub](https://github.com/LuongTND)
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuongTND](https://github.com/LuongTND)
 
-- 📝 I regularly write articles on [https://www.facebook.com/ducluong.tn11/](https://www.facebook.com/ducluong.tn11/)
-
-- 💬 Ask me about **Asp.net Core**
+- 🍻 I often share my daily life on [https://www.facebook.com/ducluong.tn11/](https://www.facebook.com/ducluong.tn11/)
 
 - 📫 How to reach me **luongtnd.developer@gmail.com**
+
+- 💬 Ask me about **Asp.net Core**
 
 - 📄 Know about my experiences [https://github.com/LuongTND](https://github.com/LuongTND)
 
