@@ -9,8 +9,6 @@
 
 - 📩 My Email ( Contact for work or others ) **luongtnd.developer@gmail.com**
 
-- 🤝 I’m looking to collaborate on [GitHub](https://github.com/LuongTND)
-
 - 🤝 Connect and Know about my experiences on [Linked](https://www.linkedin.com/in/ducluongtran07/)
 
 - 🍻 I often share my daily life on [https://www.facebook.com/ducluong.tn11/](https://www.facebook.com/ducluong.tn11/)
