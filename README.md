@@ -5,23 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luongtnd" alt="luongtnd" /></a> </p>
 
-- 💯 I’m currently learning **C#, Asp.net Core, Java, Nodejs, React, Angular, Vuejs**
+- 💯 I’m currently learning and working **C#, Asp.net Core, Java, Nodejs, React, Angular, Vuejs**
+
+- 📩 My Email ( Contact for work or others ) **luongtnd.developer@gmail.com**
 
 - 🤝 I’m looking to collaborate on [GitHub](https://github.com/LuongTND)
 
-- 📞 Contact me on [Linked](https://www.linkedin.com/in/ducluongtran07/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/LuongTND](https://github.com/LuongTND)
+- 🤝 Connect and Know about my experiences on [Linked](https://www.linkedin.com/in/ducluongtran07/)
 
 - 🍻 I often share my daily life on [https://www.facebook.com/ducluong.tn11/](https://www.facebook.com/ducluong.tn11/)
 
-- 📫 How to reach me **luongtnd.developer@gmail.com**
-
 - 💬 Ask me about **Asp.net Core**
 
-- 📄 Know about my experiences [https://github.com/LuongTND](https://github.com/LuongTND)
-
 - ⚡ Fun fact **Hangout🍻 and Sports⚽ and 📈**
+  
+- 📞 Contact +84 832 121 936
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
