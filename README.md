@@ -9,7 +9,7 @@
 
 - 📩 My Email ( Contact for work or others ) **luongtnd.developer@gmail.com**
 
-- 🤝 Connect and Know about my experiences on [Linked](https://www.linkedin.com/in/ducluongtran07/)
+- 🤝 Connect and Know about my experiences on [Linked](https://www.linkedin.com/in/luongtnd-job/)
 
 - 🍻 I often share my daily life on [https://www.facebook.com/ducluong.tn11/](https://www.facebook.com/ducluong.tn11/)
 
