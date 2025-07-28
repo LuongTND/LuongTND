@@ -11,7 +11,7 @@
 
 - 🤝 Connect and Know about my experiences on [Linked](https://www.linkedin.com/in/luongtnd-job/)
 
-- 🍻 I often share my daily life on [https://www.facebook.com/ducluong.tn11/](https://www.facebook.com/ducluong.tn11/)
+- 🍻 I often share my daily life on [https://instagram.com/ducluong_trann](https://instagram.com/ducluong_trann)
 
 - 💬 Ask me about **Asp.net Core**
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ducluongtran07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ducluongtran07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luongtnd-job" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ducluongtran07" height="30" width="40" /></a>
 <a href="https://fb.com/ducluong.tn11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ducluong.tn11" height="30" width="40" /></a>
-<a href="https://instagram.com/ducluong.tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ducluong.tn" height="30" width="40" /></a>
+<a href="https://instagram.com/ducluong_trann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ducluong.tn" height="30" width="40" /></a>
 <a href="https://discord.gg/ducluongtran11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ducluongtran11" height="30" width="40" /></a>
 </p>
 
