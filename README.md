@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Asp.net Core**
 
-- ⚡ Fun fact **Hangout🍻 and Sports⚽ and 📈**
+- ⚡ Fun fact **Hangout🍻 Sports⚽ and 📈**
   
 - 📞 Contact +84 832 121 936
 
